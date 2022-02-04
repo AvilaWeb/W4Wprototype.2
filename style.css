@@ -1939,6 +1939,12 @@ p {
   /* padding-left: 3em; */
 }
 
+@media screen and (max-width: 768px) {
+  .team {
+    margin-left: 2em;
+  }
+}
+
 .firstteam {
   padding-bottom: 2em;
 }
