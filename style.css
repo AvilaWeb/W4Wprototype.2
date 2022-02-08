@@ -1947,8 +1947,11 @@ p {
 
 .firstteam {
   padding-bottom: 2em;
+	padding-left: 5em;
 }
-
+.container-team {
+	padding-left: 5em;
+}
 .ourteam {
   text-align: center;
 padding-bottom: 1.5em;
@@ -1967,6 +1970,7 @@ padding-bottom: 1.5em;
   border-color: #07b20a;
   color: white;
 }
+
 
 
 /* Gallery */
