@@ -1941,7 +1941,7 @@ p {
 
 @media screen and (max-width: 768px) {
   .container-team {
-    margin-left: 5em;
+/*     margin-left: 5em; */
   }
 }
 
